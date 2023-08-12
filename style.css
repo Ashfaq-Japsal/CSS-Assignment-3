@@ -1,0 +1,58 @@
+div {
+    width: 300px;
+    height: 400px;
+    /* border: 1px solid red; */
+    text-align: center;
+    margin: 5% 7%;
+    background-color: white;
+}
+
+h1 {
+padding-top: 20px;
+}
+
+select,button,.style {
+    width: 230px;
+    height: 25px;
+}
+
+select{
+    cursor: pointer;
+}
+
+button {
+    background-color: rgb(14, 22, 22);
+    color: white;
+    cursor: pointer;
+}
+
+.profile {
+background-image: url(images/profile\ icon.jpg);
+background-size: 25px;
+background-repeat: no-repeat;
+padding-left: 30px;
+}
+
+.email {
+    background-image: url(images/email\ icon.png);
+    background-size: 22px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+
+.password {
+    background-image: url(images/password\ icon.png);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+
+body {
+    background-image: url(images/img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+label {
+    cursor: pointer;
+}
